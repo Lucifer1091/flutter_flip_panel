@@ -1,5 +1,7 @@
 # Flip Panel
 
+https://flutterrepos.com/lib/hnvn-flutter_flip_panel-flutter-ui
+
 [![pub package](https://img.shields.io/pub/v/flip_panel.svg)](https://pub.dartlang.org/packages/flip_panel) ![](https://github.com/hnvn/flutter_flip_panel/workflows/unit%20test/badge.svg)
 
 A package for flip panel with built-in animation
